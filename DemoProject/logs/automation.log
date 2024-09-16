@@ -1,0 +1,21 @@
+01:26:37.179 [main] INFO  testCases.TC003_LoginTest - ** finished TC003_LoginTest **
+17:14:13.646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\Documents\DemoProject\master.xml"
+17:14:14.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\Documents\DemoProject\master.xml
+
+17:14:27.003 [main] INFO  testCases.TC001_LogoDisplayTest - ** starting TC001_LogoDisplayTest **
+17:14:27.122 [main] INFO  testCases.TC001_LogoDisplayTest - ** finished TC001_LogoDisplayTest **
+17:14:38.267 [main] INFO  testCases.TC002_SearchProduct - ** starting TC002_SearchProduct **
+17:14:38.697 [main] INFO  testCases.TC002_SearchProduct - ** finished TC002_SearchProduct **
+17:14:49.783 [main] INFO  testCases.TC003_LoginTest - ** starting TC003_LoginTest **
+17:14:50.307 [main] INFO  testCases.TC003_LoginTest - ** finished TC003_LoginTest **
+17:18:00.106 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\Documents\DemoProject\master.xml"
+17:18:00.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\Documents\DemoProject\master.xml
+
+17:18:13.389 [main] INFO  testCases.TC001_LogoDisplayTest - ** starting TC001_LogoDisplayTest **
+17:18:13.455 [main] INFO  testCases.TC001_LogoDisplayTest - ** finished TC001_LogoDisplayTest **
+17:18:24.470 [main] INFO  testCases.TC002_SearchProduct - ** starting TC002_SearchProduct **
+17:18:24.817 [main] INFO  testCases.TC002_SearchProduct - ** finished TC002_SearchProduct **
+17:18:36.526 [main] INFO  testCases.TC003_LoginTest - ** starting TC003_LoginTest **
+17:18:37.057 [main] INFO  testCases.TC003_LoginTest - ** finished TC003_LoginTest **

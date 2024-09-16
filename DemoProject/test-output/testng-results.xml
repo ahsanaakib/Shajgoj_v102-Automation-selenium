@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-16T17:18:00 BDT" name="Master Suite" finished-at="2024-09-16T17:18:37 BDT" duration-ms="36780">
+    <groups>
+    </groups>
+    <test started-at="2024-09-16T17:18:00 BDT" name="Test" finished-at="2024-09-16T17:18:37 BDT" duration-ms="36780">
+      <class name="testCases.TC003_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginTest@12bfd80d]" started-at="2024-09-16T17:18:25 BDT" name="setup" finished-at="2024-09-16T17:18:36 BDT" duration-ms="11496" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Loginbtn()[pri:0, instance:testCases.TC003_LoginTest@12bfd80d]" started-at="2024-09-16T17:18:36 BDT" name="verify_Loginbtn" finished-at="2024-09-16T17:18:37 BDT" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Loginbtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_LoginTest@12bfd80d]" started-at="2024-09-16T17:18:37 BDT" name="tearDown" finished-at="2024-09-16T17:18:37 BDT" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_LoginTest -->
+      <class name="testCases.TC002_SearchProduct">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_SearchProduct@160ac7fb]" started-at="2024-09-16T17:18:13 BDT" name="setup" finished-at="2024-09-16T17:18:24 BDT" duration-ms="10791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_search()[pri:0, instance:testCases.TC002_SearchProduct@160ac7fb]" started-at="2024-09-16T17:18:24 BDT" name="verify_search" finished-at="2024-09-16T17:18:24 BDT" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_SearchProduct@160ac7fb]" started-at="2024-09-16T17:18:24 BDT" name="tearDown" finished-at="2024-09-16T17:18:25 BDT" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_SearchProduct -->
+      <class name="testCases.TC001_LogoDisplayTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LogoDisplayTest@efde75f]" started-at="2024-09-16T17:18:00 BDT" name="setup" finished-at="2024-09-16T17:18:13 BDT" duration-ms="12587" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDisplay()[pri:0, instance:testCases.TC001_LogoDisplayTest@efde75f]" started-at="2024-09-16T17:18:13 BDT" name="verifyDisplay" finished-at="2024-09-16T17:18:13 BDT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDisplay -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_LogoDisplayTest@efde75f]" started-at="2024-09-16T17:18:13 BDT" name="tearDown" finished-at="2024-09-16T17:18:13 BDT" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_LogoDisplayTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>
